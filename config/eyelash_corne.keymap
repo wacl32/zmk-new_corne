@@ -91,7 +91,7 @@
         lower_layer {
             display-name = "NUMBER";
             bindings = <
-&trans  &td0             &kp UP          &td0             &bt BT_SEL 0     &bt BT_SEL 1                                   &mmv MOVE_UP                     &td0           &kp N7  &kp N8   &kp N9  &kp PLUS   &kp LS(DEL)
+&trans  &trans           &kp UP          &td0             &bt BT_SEL 0     &bt BT_SEL 1                                   &mmv MOVE_UP                     &td0           &kp N7  &kp N8   &kp N9  &kp PLUS   &kp LS(DEL)
 &trans  &kp LEFT         &kp DOWN        &kp RIGHT        &td0             &bt BT_CLR                     &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &td0           &kp N4  &kp N5   &kp N6  &kp MINUS  &kp ENTER
 &trans  &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_SPI  &rgb_ug RGB_SPD  &kp C_MUTE                    &mmv MOVE_DOWN                   &td0           &kp N1  &kp N2   &kp N3  &kp EQUAL  &td0
                                          &trans           &trans           &trans                                                                          &kp BACKSPACE  &kp N0  &kp DOT
