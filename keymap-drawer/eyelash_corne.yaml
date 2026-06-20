@@ -51,7 +51,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&td0'
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-up-bold$$
   - '&td0'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
