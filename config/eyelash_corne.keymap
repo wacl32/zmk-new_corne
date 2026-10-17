@@ -109,7 +109,7 @@
                           &kp F11   &kp F12   &kp SPACE                                                             &kp BACKSPACE  &trans     &trans
             >;
 
-            sensor-bindings = <&sensor_rotate_volume>;
+            sensor-bindings = <&inc_dec_kp LEFT_BRACKET RIGHT_BRACKET>;
         };
 
         GAMING_LAYER {
